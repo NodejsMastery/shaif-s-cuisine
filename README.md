@@ -45,10 +45,9 @@ You can find all the starter files in `starter_files` branch. You can to go to t
 
 ## Tools Used
 
-1. icons - (flat & Feather icons)
-2. illustration - [https://storyset.com/](https://storyset.com/)
-3. UI Design: Figma
-4. Code Editor: VS Code
+1. drift - [www.drift.com](www.drift.com)
+2. 2.
+3. Code Editor: VS Code
 
 ## Other projects
 
